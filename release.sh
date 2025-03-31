@@ -2,7 +2,7 @@
 
 set -e
 
-TAG=$(git describe --tags)
+TAG=0.0.92
 
 git checkout master
 
